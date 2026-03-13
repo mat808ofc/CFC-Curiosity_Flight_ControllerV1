@@ -1,4 +1,4 @@
-# CFC(Curiosity_Flight_ControllerV1
+# CFC (Curiosity's Flight Controller)
 
 ### INSPIRATION:
 
