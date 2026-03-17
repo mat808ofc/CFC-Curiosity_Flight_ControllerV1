@@ -22,6 +22,10 @@ My biggest challenge was routing the PCB, when I routed it for the first time th
 
 Total estimated cost: $186.36
 
+## IMPORTANT NOTE FOR REVIEWER!!
+
+I might need more because since i'm buying components from idle parts and stock parts, the PCBA cost is unpredictable!!
+
 ### Extras:
 
 This project does not need a case or anything 3D printed or designed, it will be inside a RC plane.
