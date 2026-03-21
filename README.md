@@ -13,18 +13,11 @@ This is my second project and first stasis project. Since I want to follow aeros
 My biggest challenge was routing the PCB, when I routed it for the first time the board was way too big to fit on the plane and way too expensive. So after that I significantly reduced the board size and made it the smallest it can get and the cheapest. In between that, I had to change a lot of pins and inputs in STM32CubeMX so that the routing wouldn't be an absolute mess, and that took a really long time and absolutely drained my patience and mental power.
 
 ### BOM:
-| Name                 | Purpose                       | Cost (USD) | Qty | Total (USD) | Link                                                                                                                                             | Distributor |
-| -------------------- | ----------------------------- | ---------- | --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| PCBA (2 boards)      | The actual flight controller  | $141.95    | 1   | $141.95     | [https://jlcpcb.com/](https://jlcpcb.com/)                                                                                                       | JLCPCB      |
-| U-Blox SAM-M8Q-0     | GNSS Module from JLCPCB parts | $16.20     | 2   | $32.41      | [https://jlcpcb.com/partdetail/UBLOX-SAM_M8Q0/C5447387](https://jlcpcb.com/partdetail/UBLOX-SAM_M8Q0/C5447387)                                   | JLCPCB      |
-| FCM1608KF-601T03 (2) | Ferrite Bead from idle parts  | $0.01      | 1   | $0.01       | [https://jlcpcb.com/partdetail/TAITECH-FCM1608KF601T03/C141723](https://jlcpcb.com/partdetail/TAITECH-FCM1608KF601T03/C141723)                   | JLCPCB      |
-| STM32F722RET6        | MCU from idle parts           | $6.00      | 2   | $12.00      | [https://jlcpcb.com/partdetail/STMicroelectronics-STM32F722RET6/C118207](https://jlcpcb.com/partdetail/STMicroelectronics-STM32F722RET6/C118207) | JLCPCB      |
+| Name            | Purpose                      | Cost (USD) | Qty | Total (USD) | Link                         | Distributor |
+|-----------------|-----------------------------|------------|-----|-------------|------------------------------|-------------|
+| PCBA (1 board)  | The actual flight controller | $140       | 1   | $140        | https://www.elecrow.com/     | Elecrow     |
 
-Total estimated cost: $186.36
-
-## IMPORTANT NOTE FOR REVIEWER!!
-
-I might need more because since i'm buying components from idle parts and stock parts, the PCBA cost is unpredictable!!
+Total estimated cost: $140
 
 ### Extras:
 
